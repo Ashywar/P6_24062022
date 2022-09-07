@@ -17,5 +17,8 @@ pour démarrer l'API merci de suivre les étapes suivantes.
     ```
 
 ## Usage
-
+Backend :
 Le serveur se lance via la commande `nodemon server`.
+
+Frontend:
+Le serveur se lance via la commande `ng serve`.
